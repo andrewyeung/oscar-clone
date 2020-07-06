@@ -57,7 +57,7 @@
 
 * The **screenshots** folder contains the screenshots for this Readme file.
 * The **img** folder is for the background, icon, and slider images used in the html.
-
+* <h3><a href="https://jovial-lalande-de5bdc.netlify.app/">View Demo on Netlify!</a></h3>
 
 <!-- CONTACT -->
 ## Contact
